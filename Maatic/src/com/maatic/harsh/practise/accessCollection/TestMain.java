@@ -6,6 +6,9 @@ public class TestMain {
 		ts.push(2);
 		ts.push(5);
 		ts.push(10);
+		// git
+		ts.push(20);
+		
 		System.out.println(ts.isEmpty());
 		ts.pop();
 		ts.print();
